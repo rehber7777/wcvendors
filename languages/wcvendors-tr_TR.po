@@ -27,7 +27,7 @@ msgstr ""
 #: ../class-wc-vendors.php:84 ../classes/admin/class-admin-reports.php:41
 #: ../classes/admin/class-admin-users.php:408
 msgid "WC Vendors"
-msgstr ""
+msgstr "Pazaryeri"
 
 #: ../class-wc-vendors.php:112
 msgid ""
@@ -37,7 +37,7 @@ msgstr ""
 
 #: ../class-wc-vendors.php:251 ../classes/admin/settings/sf-options.php:192
 msgid "Capabilities"
-msgstr ""
+msgstr "Yetkiler"
 
 #: ../class-wc-vendors.php:274 ../classes/admin/class-admin-page.php:254
 #: ../classes/admin/class-admin-reports.php:175
@@ -46,11 +46,11 @@ msgstr ""
 #: ../classes/admin/class-product-meta.php:187
 #: ../classes/admin/class-product-meta.php:223 ../classes/class-install.php:87
 msgid "Vendor"
-msgstr ""
+msgstr "Satıcı"
 
 #: ../class-wc-vendors.php:276 ../classes/admin/settings/sf-options.php:4
 msgid "General"
-msgstr ""
+msgstr "Genel"
 
 #: ../class-wc-vendors.php:314
 msgid "Documentation/KB"
@@ -58,7 +58,7 @@ msgstr ""
 
 #: ../class-wc-vendors.php:315
 msgid "Help Forums"
-msgstr ""
+msgstr "Yardım Forumları"
 
 #: ../class-wc-vendors.php:316
 msgid "Paid Support"
@@ -92,7 +92,7 @@ msgstr ""
 #: ../classes/admin/class-product-meta.php:167
 #: ../templates/dashboard/reports.php:19
 msgid "Commission"
-msgstr ""
+msgstr "Kazanç"
 
 #: ../classes/admin/class-admin-page.php:252
 #: ../classes/admin/class-admin-reports.php:174
@@ -100,7 +100,7 @@ msgstr ""
 #: ../templates/emails/notify-vendor-shipped.php:22
 #: ../templates/emails/vendor-new-order.php:22
 msgid "Product"
-msgstr ""
+msgstr "Ürün"
 
 #: ../classes/admin/class-admin-page.php:253
 #: ../classes/admin/class-vendor-admin-dashboard.php:283
@@ -113,20 +113,20 @@ msgstr ""
 #: ../classes/admin/class-vendor-admin-dashboard.php:286
 #: ../templates/dashboard/orders.php:35
 msgid "Total"
-msgstr ""
+msgstr "Toplam"
 
 #: ../classes/admin/class-admin-page.php:256
 #: ../classes/admin/class-admin-reports.php:178
 #: ../classes/admin/class-admin-reports.php:461
 msgid "Status"
-msgstr ""
+msgstr "Durum"
 
 #: ../classes/admin/class-admin-page.php:257
 #: ../classes/admin/class-vendor-admin-dashboard.php:288
 #: ../classes/front/orders/class-orders.php:185
 #: ../templates/dashboard/orders.php:36
 msgid "Date"
-msgstr ""
+msgstr "Tarih"
 
 #: ../classes/admin/class-admin-page.php:294
 msgid "Mark paid"
@@ -143,7 +143,7 @@ msgstr ""
 #: ../classes/admin/class-admin-page.php:313
 #: ../classes/admin/class-admin-page.php:317
 msgid "Filter"
-msgstr ""
+msgstr "Filtre"
 
 #: ../classes/admin/class-admin-page.php:352
 msgid "Show all dates"
@@ -185,7 +185,7 @@ msgstr ""
 #: ../classes/admin/class-admin-reports.php:62
 #: ../classes/admin/class-admin-reports.php:345
 msgid "Commission Totals"
-msgstr ""
+msgstr "Kazanç Toplamı"
 
 #: ../classes/admin/class-admin-reports.php:63
 msgid ""
@@ -198,20 +198,20 @@ msgstr ""
 #: ../classes/admin/class-admin-reports.php:437
 #: ../templates/dashboard/date-picker.php:3
 msgid "From:"
-msgstr ""
+msgstr "Başlangıç"
 
 #: ../classes/admin/class-admin-reports.php:123
 #: ../classes/admin/class-admin-reports.php:439
 #: ../templates/dashboard/date-picker.php:7
 msgid "To:"
-msgstr ""
+msgstr "Bitiş"
 
 #: ../classes/admin/class-admin-reports.php:125
 #: ../classes/admin/class-admin-reports.php:283
 #: ../classes/admin/class-admin-reports.php:448
 #: ../templates/dashboard/date-picker.php:12
 msgid "Show"
-msgstr ""
+msgstr "Göster"
 
 #: ../classes/admin/class-admin-reports.php:131
 msgid "Total paid in range"
@@ -239,7 +239,7 @@ msgstr ""
 #: ../classes/front/orders/class-orders.php:177
 #: ../templates/dashboard/orders.php:33
 msgid "Order"
-msgstr ""
+msgstr "Sipariş"
 
 #: ../classes/admin/class-admin-reports.php:177
 msgid "Date &amp; Time"
@@ -259,7 +259,7 @@ msgstr ""
 
 #: ../classes/admin/class-admin-reports.php:234
 msgid "Show:"
-msgstr ""
+msgstr "Göster:"
 
 #: ../classes/admin/class-admin-reports.php:243
 msgid "Search for a product&hellip;"
@@ -275,11 +275,11 @@ msgstr ""
 
 #: ../classes/admin/class-admin-reports.php:344
 msgid "Month"
-msgstr ""
+msgstr "Ay"
 
 #: ../classes/admin/class-admin-reports.php:346
 msgid "Tax"
-msgstr ""
+msgstr "Vergi"
 
 #: ../classes/admin/class-admin-reports.php:347
 #: ../classes/admin/settings/sf-options.php:52
@@ -325,7 +325,7 @@ msgstr ""
 
 #: ../classes/admin/class-admin-users.php:424
 msgid "Shop name"
-msgstr ""
+msgstr "Mağaza adı"
 
 #: ../classes/admin/class-admin-users.php:431
 msgid "PayPal E-mail"
@@ -333,7 +333,7 @@ msgstr ""
 
 #: ../classes/admin/class-admin-users.php:432
 msgid "required"
-msgstr ""
+msgstr "gerekli"
 
 #: ../classes/admin/class-admin-users.php:439
 msgid "Commission rate"
@@ -364,7 +364,7 @@ msgstr ""
 #: ../classes/admin/views/html-vendor-settings-page.php:30
 #: ../templates/dashboard/settings/seller-info.php:3
 msgid "Seller info"
-msgstr ""
+msgstr "Satıcı bilgisi"
 
 #: ../classes/admin/class-admin-users.php:473
 msgid "Shop description"
@@ -373,7 +373,7 @@ msgstr ""
 #: ../classes/admin/class-vendor-admin-dashboard.php:20
 #: ../classes/class-install.php:188
 msgid "Shop Settings"
-msgstr ""
+msgstr "Mağaza Ayarları"
 
 #: ../classes/admin/class-vendor-admin-dashboard.php:21
 #: ../classes/admin/class-vendor-admin-dashboard.php:146
@@ -400,13 +400,13 @@ msgstr ""
 
 #: ../classes/admin/class-vendor-admin-dashboard.php:284
 msgid "Customer"
-msgstr ""
+msgstr "Müşteri"
 
 #: ../classes/admin/class-vendor-admin-dashboard.php:285
 #: ../classes/admin/settings/sf-options.php:127
 #: ../classes/admin/settings/sf-options.php:254
 msgid "Products"
-msgstr ""
+msgstr "Ürünler"
 
 #: ../classes/admin/class-vendor-admin-dashboard.php:289
 #: ../templates/dashboard/orders.php:92
@@ -559,7 +559,7 @@ msgstr ""
 #: ../classes/admin/emails/class-wc-notify-shipped.php:190
 #: ../classes/admin/emails/class-wc-notify-vendor.php:289
 msgid "HTML"
-msgstr ""
+msgstr "HTML"
 
 #: ../classes/admin/emails/class-wc-approve-vendor.php:158
 #: ../classes/admin/emails/class-wc-notify-admin.php:169
@@ -570,7 +570,7 @@ msgstr ""
 
 #: ../classes/admin/emails/class-wc-notify-admin.php:28
 msgid "New Vendor Product"
-msgstr ""
+msgstr "Yeni Mağaza Ürünü"
 
 #: ../classes/admin/emails/class-wc-notify-admin.php:29
 msgid "New order emails are sent when a new product is submitted by a vendor"
@@ -595,7 +595,7 @@ msgstr ""
 
 #: ../classes/admin/emails/class-wc-notify-shipped.php:31
 msgid "Your order has been shipped"
-msgstr ""
+msgstr "Siparişiniz kargolandı"
 
 #: ../classes/admin/emails/class-wc-notify-shipped.php:32
 msgid ""
@@ -604,7 +604,7 @@ msgstr ""
 
 #: ../classes/admin/emails/class-wc-notify-shipped.php:112
 msgid "Subtotal:"
-msgstr ""
+msgstr "Aratoplam:"
 
 #: ../classes/admin/emails/class-wc-notify-vendor.php:27
 msgid "Notify vendors"
@@ -624,15 +624,15 @@ msgstr ""
 
 #: ../classes/admin/emails/class-wc-notify-vendor.php:105
 msgid "Commission Subtotal:"
-msgstr ""
+msgstr "Kazanç Aratoplamı:"
 
 #: ../classes/admin/emails/class-wc-notify-vendor.php:111
 msgid "Tax Subtotal:"
-msgstr ""
+msgstr "Vergi Aratoplamı:"
 
 #: ../classes/admin/emails/class-wc-notify-vendor.php:119
 msgid "Shipping Subtotal:"
-msgstr ""
+msgstr "Kargo Aratoplamı:"
 
 #: ../classes/admin/emails/class-wc-notify-vendor.php:276
 msgid "Product Totals"
@@ -652,7 +652,7 @@ msgstr ""
 #: ../classes/admin/settings/classes/sf-class-settings.php:153
 #: ../templates/dashboard/settings/settings.php:1
 msgid "Settings"
-msgstr ""
+msgstr "Ayarlar"
 
 #: ../classes/admin/settings/classes/sf-class-settings.php:302
 msgid "Could not load settings at: "
@@ -746,7 +746,7 @@ msgstr ""
 #: ../classes/admin/settings/sf-options.php:43
 #: ../classes/admin/settings/sf-options.php:175
 msgid "Taxes"
-msgstr ""
+msgstr "Vergiler"
 
 #: ../classes/admin/settings/sf-options.php:44
 msgid "Give vendors any tax collected per-product"
@@ -773,7 +773,7 @@ msgstr ""
 
 #: ../classes/admin/settings/sf-options.php:63
 msgid "Shop HTML"
-msgstr ""
+msgstr "Mağaza HTML"
 
 #: ../classes/admin/settings/sf-options.php:64
 msgid ""
@@ -823,7 +823,7 @@ msgstr ""
 #: ../classes/admin/views/html-vendor-settings-page.php:22
 #: ../templates/dashboard/settings/shop-name.php:2
 msgid "Shop Name"
-msgstr ""
+msgstr "Mağaza Adı"
 
 #: ../classes/admin/settings/sf-options.php:95
 msgid "User Login"
@@ -890,7 +890,7 @@ msgstr ""
 
 #: ../classes/admin/settings/sf-options.php:137
 msgid "Linked Products"
-msgstr ""
+msgstr "Bağlantılı Ürünler"
 
 #: ../classes/admin/settings/sf-options.php:138
 msgid "Attributes"
@@ -910,7 +910,7 @@ msgstr ""
 
 #: ../classes/admin/settings/sf-options.php:150
 msgid "Simple"
-msgstr ""
+msgstr "Basit"
 
 #: ../classes/admin/settings/sf-options.php:151
 msgid "Variable"
@@ -939,7 +939,7 @@ msgstr ""
 
 #: ../classes/admin/settings/sf-options.php:165
 msgid "Downloadable"
-msgstr ""
+msgstr "İndirilebilir"
 
 #: ../classes/admin/settings/sf-options.php:172
 msgid "Miscellaneous"
@@ -985,7 +985,7 @@ msgstr ""
 
 #: ../classes/admin/settings/sf-options.php:205
 msgid "View comments"
-msgstr ""
+msgstr "Yorumları görüntüle"
 
 #: ../classes/admin/settings/sf-options.php:206
 msgid "View all vendor comments for an order on the frontend"
@@ -993,7 +993,7 @@ msgstr ""
 
 #: ../classes/admin/settings/sf-options.php:213
 msgid "Submit comments"
-msgstr ""
+msgstr "Yorumları gönder"
 
 #: ../classes/admin/settings/sf-options.php:214
 msgid ""
@@ -1020,7 +1020,7 @@ msgstr ""
 
 #: ../classes/admin/settings/sf-options.php:237
 msgid "Reports"
-msgstr ""
+msgstr "Raporlar"
 
 #: ../classes/admin/settings/sf-options.php:238
 msgid ""
@@ -1047,7 +1047,7 @@ msgstr ""
 
 #: ../classes/admin/settings/sf-options.php:255
 msgid "Submit products"
-msgstr ""
+msgstr "Ürünleri gönder"
 
 #: ../classes/admin/settings/sf-options.php:256
 msgid ""
@@ -1078,7 +1078,7 @@ msgstr ""
 
 #: ../classes/admin/settings/sf-options.php:278
 msgid "Pages"
-msgstr ""
+msgstr "Sayfalar"
 
 #: ../classes/admin/settings/sf-options.php:279
 msgid "Page configuration"
@@ -1086,7 +1086,7 @@ msgstr ""
 
 #: ../classes/admin/settings/sf-options.php:282
 msgid "Vendor dashboard"
-msgstr ""
+msgstr "Mağaza paneli"
 
 #: ../classes/admin/settings/sf-options.php:283
 msgid ""
@@ -1098,7 +1098,7 @@ msgstr ""
 
 #: ../classes/admin/settings/sf-options.php:290
 msgid "Shop settings"
-msgstr ""
+msgstr "Mağaza ayarları"
 
 #: ../classes/admin/settings/sf-options.php:291
 msgid ""
@@ -1134,7 +1134,7 @@ msgstr ""
 
 #: ../classes/admin/settings/sf-options.php:325
 msgid "Payments"
-msgstr ""
+msgstr "Ödemeler"
 
 #: ../classes/admin/settings/sf-options.php:327
 msgid "PayPal Adaptive Payments Scheduling"
@@ -1195,15 +1195,15 @@ msgstr ""
 
 #: ../classes/admin/settings/sf-options.php:350
 msgid "Monthly"
-msgstr ""
+msgstr "Aylık"
 
 #: ../classes/admin/settings/sf-options.php:351
 msgid "Manual"
-msgstr ""
+msgstr "Manuel"
 
 #: ../classes/admin/settings/sf-options.php:352
 msgid "Now"
-msgstr ""
+msgstr "Şimdi"
 
 #: ../classes/admin/settings/sf-options.php:357
 msgid "Email notification"
@@ -1218,7 +1218,7 @@ msgstr ""
 #: ../classes/admin/views/html-vendor-settings-page.php:11
 #: ../templates/dashboard/settings/paypal-email-form.php:2
 msgid "PayPal Address"
-msgstr ""
+msgstr "Paypal Adresi"
 
 #: ../classes/admin/views/html-vendor-settings-page.php:15
 #: ../templates/dashboard/settings/paypal-email-form.php:3
@@ -1248,7 +1248,7 @@ msgstr ""
 
 #: ../classes/admin/views/html-vendor-settings-page.php:70
 msgid "Save Shop Settings"
-msgstr ""
+msgstr "Mağaza Ayarlarını Kaydet"
 
 #: ../classes/class-cron.php:87
 #, php-format
@@ -1273,7 +1273,7 @@ msgstr ""
 
 #: ../classes/class-install.php:186
 msgid "Vendor Dashboard"
-msgstr ""
+msgstr "Mağaza Paneli"
 
 #: ../classes/front/dashboard/class-vendor-dashboard.php:48
 msgid "Order marked shipped."
@@ -1297,7 +1297,7 @@ msgstr ""
 #: ../templates/emails/notify-vendor-shipped.php:23
 #: ../templates/emails/vendor-new-order.php:23
 msgid "Quantity"
-msgstr ""
+msgstr "Adet"
 
 #: ../classes/front/orders/class-orders.php:110
 msgid ""
@@ -1319,23 +1319,23 @@ msgstr ""
 
 #: ../classes/front/orders/class-orders.php:180
 msgid "Address"
-msgstr ""
+msgstr "Adres"
 
 #: ../classes/front/orders/class-orders.php:181
 msgid "City"
-msgstr ""
+msgstr "Semt"
 
 #: ../classes/front/orders/class-orders.php:182
 msgid "State"
-msgstr ""
+msgstr "Şehir"
 
 #: ../classes/front/orders/class-orders.php:183
 msgid "Zip"
-msgstr ""
+msgstr "Posta Kodu"
 
 #: ../classes/front/orders/class-orders.php:184
 msgid "Email address"
-msgstr ""
+msgstr "E-Posta adresi"
 
 #: ../classes/front/orders/class-submit-comment.php:41
 msgid "You've left the comment field empty!"
@@ -1349,7 +1349,7 @@ msgstr ""
 #: ../classes/front/signup/views/html-vendor-signup.php:21
 #: ../templates/dashboard/denied.php:22
 msgid "Apply to become a vendor? "
-msgstr ""
+msgstr "Mağaza açmak için başvur"
 
 #: ../classes/front/signup/class-vendor-signup.php:73
 #: ../classes/front/signup/views/html-vendor-signup.php:35
@@ -1367,7 +1367,7 @@ msgstr ""
 #: ../classes/front/signup/class-vendor-signup.php:136
 #: ../classes/front/signup/class-vendor-signup.php:171
 msgid "Your application has been submitted."
-msgstr ""
+msgstr "Başvurunuz gönderildi"
 
 #: ../classes/front/signup/class-vendor-signup.php:190
 #: ../classes/front/signup/class-vendor-signup.php:228
@@ -1405,7 +1405,7 @@ msgstr ""
 
 #: ../classes/gateways/PayPal_AdvPayments/paypal_ap.php:154
 msgid "PayPal"
-msgstr ""
+msgstr "PayPal"
 
 #: ../classes/gateways/PayPal_AdvPayments/paypal_ap.php:159
 #: ../classes/gateways/WCV_Gateway_Test/class-wcv-gateway-test.php:75
@@ -1418,7 +1418,7 @@ msgstr ""
 
 #: ../classes/gateways/PayPal_AdvPayments/paypal_ap.php:161
 msgid "Pay via PayPal!"
-msgstr ""
+msgstr "PayPal ile Öde!"
 
 #: ../classes/gateways/PayPal_AdvPayments/paypal_ap.php:172
 msgid "Live Credentials"
@@ -1434,7 +1434,7 @@ msgstr ""
 #: ../classes/gateways/PayPal_AdvPayments/paypal_ap.php:179
 #: ../classes/gateways/PayPal_AdvPayments/paypal_ap.php:213
 msgid "PayPal Email"
-msgstr ""
+msgstr "PayPal E-Posta"
 
 #: ../classes/gateways/PayPal_AdvPayments/paypal_ap.php:180
 #: ../classes/gateways/PayPal_AdvPayments/paypal_ap.php:214
@@ -1544,7 +1544,7 @@ msgstr ""
 #: ../classes/gateways/PayPal_Masspay/class-paypal-masspay.php:211
 #, php-format
 msgid "Payment status: %s."
-msgstr ""
+msgstr "Ödeme durumu: %s."
 
 #: ../classes/gateways/PayPal_Masspay/class-paypal-masspay.php:212
 #, php-format
@@ -1554,7 +1554,7 @@ msgstr ""
 #: ../classes/gateways/PayPal_Masspay/class-paypal-masspay.php:215
 #, php-format
 msgid "Payment total: %s."
-msgstr ""
+msgstr "Ödeme toplamı %s."
 
 #: ../classes/gateways/WCV_Gateway_Test/class-wcv-gateway-test.php:35
 #: ../classes/gateways/WCV_Gateway_Test/class-wcv-gateway-test.php:71
@@ -1575,7 +1575,7 @@ msgstr ""
 
 #: ../classes/gateways/WCV_Gateway_Test/class-wcv-gateway-test.php:68
 msgid "Title"
-msgstr ""
+msgstr "Başlık"
 
 #: ../classes/gateways/WCV_Gateway_Test/class-wcv-gateway-test.php:77
 msgid "Payment method description that the customer will see on your checkout."
@@ -1620,23 +1620,23 @@ msgstr ""
 
 #: ../templates/dashboard/denied.php:53
 msgid "Submit"
-msgstr ""
+msgstr "Gönder"
 
 #: ../templates/dashboard/links.php:3
 msgid "View Your Store"
-msgstr ""
+msgstr "Mağazanı Görüntüle"
 
 #: ../templates/dashboard/links.php:4
 msgid "Store Settings"
-msgstr ""
+msgstr "Mağaza Ayarları"
 
 #: ../templates/dashboard/links.php:7
 msgid "Add New Product"
-msgstr ""
+msgstr "Yeni Ürün Ekle"
 
 #: ../templates/dashboard/links.php:8
 msgid "Edit Products"
-msgstr ""
+msgstr "Ürünleri Düzenle"
 
 #: ../templates/dashboard/orders.php:7 ../templates/dashboard/orders.php:10
 msgid "Hide items"
@@ -1648,7 +1648,7 @@ msgstr ""
 
 #: ../templates/dashboard/orders.php:37
 msgid "Links"
-msgstr ""
+msgstr "Bağlantılar"
 
 #: ../templates/dashboard/orders.php:100
 msgid "Tracking"
@@ -1660,11 +1660,11 @@ msgstr ""
 
 #: ../templates/dashboard/reports.php:1
 msgid "Sales Report"
-msgstr ""
+msgstr "Satış Raporu"
 
 #: ../templates/dashboard/reports.php:20
 msgid "Rate"
-msgstr ""
+msgstr "Oran"
 
 #: ../templates/dashboard/reports.php:47
 msgid "Show Orders"
@@ -1672,7 +1672,7 @@ msgstr ""
 
 #: ../templates/dashboard/reports.php:56
 msgid "Totals"
-msgstr ""
+msgstr "Toplam"
 
 #: ../templates/dashboard/reports.php:71
 msgid "You have no sales during this period."
@@ -1684,7 +1684,7 @@ msgstr ""
 
 #: ../templates/dashboard/settings/settings.php:47
 msgid "Save"
-msgstr ""
+msgstr "Kaydet"
 
 #: ../templates/emails/application-status.php:5
 #, php-format
@@ -1736,7 +1736,7 @@ msgstr ""
 #: ../templates/emails/notify-vendor-shipped.php:24
 #: ../templates/emails/vendor-new-order.php:24
 msgid "Price"
-msgstr ""
+msgstr "Fiyat"
 
 #: ../templates/emails/notify-vendor-shipped.php:56
 #: ../templates/emails/vendor-new-order.php:56
@@ -1746,12 +1746,12 @@ msgstr ""
 #: ../templates/emails/notify-vendor-shipped.php:59
 #: ../templates/emails/vendor-new-order.php:59
 msgid "Email:"
-msgstr ""
+msgstr "E-Posta:"
 
 #: ../templates/emails/notify-vendor-shipped.php:62
 #: ../templates/emails/vendor-new-order.php:62
 msgid "Tel:"
-msgstr ""
+msgstr "Tel:"
 
 #: ../templates/emails/vendor-new-order.php:13
 #, php-format
@@ -1760,7 +1760,7 @@ msgstr ""
 
 #: ../templates/orders/comments/add-new-comment.php:11
 msgid "Add comment"
-msgstr ""
+msgstr "Yorum yaz"
 
 #: ../templates/orders/comments/existing-comments.php:9
 #, php-format
@@ -1810,7 +1810,7 @@ msgstr ""
 
 #: ../templates/orders/shipping/shipping-form.php:66
 msgid "Preview:"
-msgstr ""
+msgstr "Önizleme:"
 
 #: ../templates/orders/shipping/shipping-form.php:66
 msgid "Click here to track your shipment"
